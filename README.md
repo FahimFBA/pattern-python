@@ -29,3 +29,4 @@
 ### 🎖️ Pattern 2 - Understanding the `range` function
 
 [Check the Video tutorial]()
+
