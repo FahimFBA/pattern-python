@@ -13,7 +13,7 @@
 * * * *
 * * * * *
 ```
-[Check the Video tutorial]()
+[Check the Video tutorial](https://youtu.be/apq1sHtj9Fk)
 
 ### 🎖️ Pattern 2
 
