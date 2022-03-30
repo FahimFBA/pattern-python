@@ -83,3 +83,13 @@ or
 5 
 ```
 [Check the Video tutorial]()
+
+### 🎖️ Pattern 7
+```
+5 5 5 5 5 
+5 5 5 5 
+5 5 5 
+5 5 
+5 
+```
+[Check the Video tutorial]()
