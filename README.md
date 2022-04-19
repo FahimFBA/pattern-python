@@ -93,3 +93,13 @@ or
 5 
 ```
 [Check the Video tutorial]()
+
+
+### 🎖️ Pattern 8
+```
+1 
+2 1 
+3 2 1 
+4 3 2 1 
+5 4 3 2 1
+```
