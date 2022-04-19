@@ -103,3 +103,5 @@ or
 4 3 2 1 
 5 4 3 2 1
 ```
+
+[Check the Video tutorial](https://youtu.be/0nqenoaIq8s)
